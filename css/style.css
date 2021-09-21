@@ -13,11 +13,26 @@ fieldset{
     background-color: #eeeeee;
     margin: 5px;
 }
+
+legend{
+    background-color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    border: solid 1px rgb(75, 73, 73);
+
+}
 .field{
     margin: 5px;
     padding: 5px;
     background-color: #eeeeee;
 
+}
+.campo{
+    border-radius: 10px;
+    border: solid 1px #2573f0;
+    height: 25px;
+    width: 300px;
+    outline: none;
 }
 
 #principal{

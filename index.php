@@ -21,11 +21,11 @@
                     <fieldset><legend>Dados Pessoais</legend>
                         <div class="field">
                             <label class="form" for="nome">Nome:</label>
-                            <input type="text" id="nome" name="nome" required><br/>
+                            <input class="campo" type="text" id="nome" name="nome" required><br/>
                             <label for="nome" class="form">Altura:</label>
-                            <input type="float" id="altura" name="altura" required><br/>
+                            <input class="campo" type="float" id="altura" name="altura" required><br/>
                             <label for="peso" class="form">Peso:</label>
-                            <input type="number" id="peso" name="peso" required><br/>
+                            <input class="campo" type="number" id="peso" name="peso" required><br/>
                             
                             <input type="radio" id="m" name="sexo" value="Masculino">
                             <label class="form" for="m">Masculino</label>
